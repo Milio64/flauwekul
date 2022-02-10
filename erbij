@@ -1,0 +1,5 @@
+total 8.0K
+drwxr-xr-x 1 root root 138 Feb 10 15:45 .git/
+-rw-r--r-- 1 root root   5 Feb 10 15:44 .gitignore
+-rw-r--r-- 1 root root  51 Feb 10 15:44 checkstatusVM.sh
+-rw-r--r-- 1 root root   0 Feb 10 15:45 erbij
