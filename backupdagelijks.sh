@@ -13,6 +13,8 @@
 BACKUPROOT=/backup
 BASEDIR="$BACKUPROOT/script"
 
+
+ 
 DAYOFWEEK=$(date +"%u")
 WEEKDAGEN=( "7zondag" "1maandag" "2dinsdag" "3woensdag" "4donderdag" "5vrijdag" "6zaterdag" "7zondag" )
 
